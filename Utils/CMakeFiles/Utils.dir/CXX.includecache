@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chamibuddhika/Builds/llvm-passes/Utils/Utils.cpp
+Utils.h
+/Users/chamibuddhika/Builds/llvm-passes/Utils/Utils.h
+
